@@ -1,4 +1,4 @@
-<p align="center">Hi 👋, I'm Richard! A passionate Data Analystics student from Brazil.</p>
+<p align="center">Hi 👋, I'm Richard! A Data Analystics student from Brazil.</p>
 
 ###
 
