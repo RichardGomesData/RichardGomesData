@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Richard Gomes</h1>
 <h3 align="center">A Data Analystics student from Brazil</h3>
 
-- I’m currently working on [My portfolio](https://www.linkedin.com/in/richard-gomes-data-analyst/)
+- I’m currently working on my portfolio
 
 - I’m currently learning **Python, SQL, Power BI, Databricks and Tableau**
 
