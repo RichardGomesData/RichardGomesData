@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Richard Gomes</h1>
+<h1 align="center">Hi, I'm Richard Gomes</h1>
 <h3 align="center">A Data Analystics student from Brazil</h3>
 
 - I’m currently working on [My portfolio](https://www.linkedin.com/in/richard-gomes-data-analyst/)
@@ -8,13 +8,6 @@
 - How to reach me **gomesrichard002@gmail.com**
 
 - Know about my experiences [https://www.linkedin.com/in/richard-gomes-data-analyst/](https://www.linkedin.com/in/richard-gomes-data-analyst/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- <a href="https://linkedin.com/in/https://www.linkedin.com/in/richard-gomes-data-analyst/" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
- </a>
- <a href="https://kaggle.com/richardgomes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/richardgomes" height="40" width="52" /></a>
-</p>
 
 <p align="left" style="display: flex; align-items: center; gap: 10px;">
  <a href="https://linkedin.com/in/richard-gomes-data-analyst/" target="blank">
