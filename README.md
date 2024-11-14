@@ -1,5 +1,3 @@
-<p align="center">Hi 👋, I'm Richard! A Data Analystics student from Brazil.</p>
-
 <h1 align="center">Hi 👋, I'm Richard Gomes</h1>
 <h3 align="center">A Data Analystics student from Brazil</h3>
 
