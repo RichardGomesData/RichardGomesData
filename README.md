@@ -62,9 +62,6 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
-  <a href="https://databricks.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.databricks.com/wp-content/uploads/2021/10/databricks-logo.png" alt="databricks" width="120" height="40"/>
-  </a>
 </p>
 
 
