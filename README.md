@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 - 🌱 Currently building my **portfolio** with exciting projects.
-- 📚 Learning **Python, SQL, Power BI, Databricks, and Tableau**.
+- 📚 Learning **Python, SQL, Power BI, and Tableau**.
 - 📫 Reach me at: **gomesrichard002@gmail.com**.
 - 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/richard-gomes-data-analyst/).
 
@@ -53,9 +53,6 @@
   <a href="https://www.tensorflow.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
   </a>
-  <a href="https://databricks.com/" target="_blank">
-    <img src="https://www.databricks.com/wp-content/uploads/2021/10/databricks-logo.png" alt="Databricks" width="100" height="40"/>
-  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
@@ -72,5 +69,5 @@
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RichardGomesData&show_icons=true&theme=gotham&hide_border=true" height="180" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=RichardGomesData&theme=gotham&hide_border=true" height="180" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=RichardGomesData&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5" height="180" alt="GitHub Streak"/>
 </div>
