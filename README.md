@@ -8,11 +8,18 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 Currently building my **portfolio** with exciting projects.
+
 - 📚 Learning **Python, SQL,dbt, Databricks, and Power BI **.
 - 📫 Reach me at: **gomesrichard002@gmail.com**.
 - 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/richard-gomes-data-analyst/).
 
+---
+### 🌐 Portfolio
+
+📊 **Data Portfolio**  
+Explore my projects, dashboards, and analytics work:
+
+🔗 https://richard-gomes-portfolio.flutterflow.app/
 ---
 
 ### 🌐 Socials
