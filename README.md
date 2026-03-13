@@ -19,7 +19,7 @@
 📊 **Data Portfolio**  
 Explore my projects, dashboards, and analytics work:
 
-🔗 [Portfolio](https://richard-gomes-portfolio.flutterflow.app/)
+🔗 [My Portfolio](https://richard-gomes-portfolio.flutterflow.app/)
 ---
 
 ### 🌐 Socials
